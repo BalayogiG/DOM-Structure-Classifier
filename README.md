@@ -8,4 +8,5 @@ Requirements
   <li>matplotlib</li>
   <li>beautifulsoup4</li>
   <li>requests</li>
+  <li>html5lib</li>
 </ul>
